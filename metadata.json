@@ -1,0 +1,6 @@
+{
+  "name": "SiNaker",
+  "description": "Sistem informasi absensi naker, sisa stok material, dan kondisi alat kerja (alker) di lapangan secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
